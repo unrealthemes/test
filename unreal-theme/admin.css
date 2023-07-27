@@ -1,0 +1,11 @@
+.ut-meta-wrapper {
+    padding: 10px;
+}
+
+.ut-meta-wrapper label {
+    margin-right: 30px;
+}
+
+.ut-meta-wrapper label[for="ut_month"] {
+    margin-right: 15px;
+}
